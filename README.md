@@ -5,7 +5,7 @@
 - 📫 How to reach me --> Discord: Sentury#4392
 
 - 👀My coding plans! 
-- Learn Web Development --> CSS ( Styling of the site ) --> HTML Basics ( not hard to learn ) --> Learn the basics of JavaScript then move onto a framework (something like ReactJS) 
+- Learn Web Development --> HTML Basics  --> CSS --> Learn the basics of JavaScript then move onto a framework (something like ReactJS) 
 - Learn Basic & Advanced C# --> UIs, WPF & .NET --> Loader for cheats
 - Basic Assembly --> Tests Loader Security
 - Learn RE --> Test my own protection & learn about protection, obfuscation and encryption 
