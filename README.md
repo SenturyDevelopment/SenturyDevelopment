@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenturyDevelopment
 - 👀 I’m interested in Web Developement & Reverse Engineering!
-- 🌱 I’m currently learning JS, CSS & C++
+- 🌱 I’m currently learning JS,HTML, CSS & C++
 - 👨‍💻 I will be sharing the projects i make along my coding adventure!
 - 📫 How to reach me --> Discord: Sentury#4392
 <!---
